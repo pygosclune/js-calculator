@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 10px solid black;
+}
+
+.first-line, .second-line, .third-lane, .fourth-line {
+    display: flex;
+    flex-direction: row;
+}
